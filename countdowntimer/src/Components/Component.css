@@ -1,0 +1,14 @@
+.time{
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+    color: whitesmoke;
+    background-image: linear-gradient(to right top, #fb45ad, #e661c9, #cd78dd, #b28ae9, #9a99ed, #86a6f4, #75b2f6, #6bbcf4, #59cbf8, #50d8f6, #58e5f0, #6ef0e7);
+}
